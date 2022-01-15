@@ -1,0 +1,15 @@
+body {
+  text-align: justify;
+  text-align: center;
+}
+
+div {
+  background: rgba(226, 233, 245, 0.753);
+  margin: 10px 10px 10px 10px;
+  padding: 10px 300px 10px 300px;
+}
+
+.link {
+  text-decoration-color: rgb(14, 134, 68);
+  color: green;
+}
